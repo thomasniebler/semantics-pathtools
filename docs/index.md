@@ -13,4 +13,4 @@ For methodological details, kindly refer to the following publications:
 
 I have created a short notebook to demonstrate how to use the presented utils. It can be found either in the
 [repository](https://github.com/thomasniebler/semantics-pathtools/blob/master/src/demo_wikispeedia.ipynb) or beautifully
-rendered in Markdown on this [page]().
+rendered in Markdown on this [page](https://thomasniebler.github.io/semantics-pathtools/demo_wikispeedia).
